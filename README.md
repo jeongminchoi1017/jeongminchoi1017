@@ -71,5 +71,5 @@
   <div style="text-align:left;">
       <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/7aed57f0-6d2e-45f1-abce-a29a4a80943c" width="200" height="200"/>
   </div><br/>
-  <a href="https://github.com/jeongminchoi1017/LomDDeock">깃허브 주소</a>
+  <a href="https://github.com/jeongminchoi1017/LomDDeock">깃허브 주소</a><br/>
   <a href="https://youtu.be/4qO5jqkEiKo">시연영상</a>
