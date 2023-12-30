@@ -52,18 +52,18 @@
 - Kmarket
   JSP를 이용한 쇼핑몰
   관리자와 판매자 페이지 개발을 맡았습니다.
-  ![1팀_프로젝트 완료보고서](https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/aaabc042-4d85-4fa8-823d-12c241780d95){: width="200" height="200"}
+  ![1팀_프로젝트 완료보고서](https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/aaabc042-4d85-4fa8-823d-12c241780d95){: width="100" height="100"}
   (https://github.com/jeongminchoi1017/Kmarket)
   
 - LotteON
   Springboot를 이용한 롯데 이커머스
   사용자 페이지와 마이페이지 개발을 맡았습니다.
-  ![스크린샷 2023-12-29 160438](https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/68226cf1-bdc1-46e1-bde3-321a6552f364){: width="200" height="200"}
+  ![스크린샷 2023-12-29 160438](https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/68226cf1-bdc1-46e1-bde3-321a6552f364){: width="100" height="100"}
   (https://github.com/jeongminchoi1017/LotteON4)
   
 - LomDDeock
   떡볶이 판매 서비스
   메뉴와 회사브랜드소개 개발을 맡았습니다. 
-  ![스크린샷 2023-12-30 204952](https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/7aed57f0-6d2e-45f1-abce-a29a4a80943c){: width="200" height="200"}
+  ![스크린샷 2023-12-30 204952](https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/7aed57f0-6d2e-45f1-abce-a29a4a80943c){: width="100" height="100"}
   (https://github.com/jeongminchoi1017/LomDDeock)
   [시연영상](https://youtu.be/4qO5jqkEiKo)
