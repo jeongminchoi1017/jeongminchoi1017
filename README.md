@@ -55,7 +55,7 @@
   <div style="text-align:left;">
       <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/aaabc042-4d85-4fa8-823d-12c241780d95" width="200" height="200"/>
   </div><br/>
-  [깃허브 주소](https://github.com/jeongminchoi1017/Kmarket)
+  <a href="https://github.com/jeongminchoi1017/Kmarket">깃허브 주소</a>
   
 - LotteON
   Springboot를 이용한 롯데 이커머스<br/>
@@ -63,7 +63,7 @@
   <div style="text-align:left;">
       <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/68226cf1-bdc1-46e1-bde3-321a6552f364" width="200" height="200"/>
   </div><br/>
-  [깃허브 주소](https://github.com/jeongminchoi1017/LotteON4)
+  <a href="https://github.com/jeongminchoi1017/LotteON4">깃허브 주소</a>
   
 - LomDDeock
   떡볶이 판매 서비스<br/>
@@ -71,5 +71,5 @@
   <div style="text-align:left;">
       <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/7aed57f0-6d2e-45f1-abce-a29a4a80943c" width="200" height="200"/>
   </div><br/>
-  [깃허브 주소](https://github.com/jeongminchoi1017/LomDDeock)
-  [시연영상](https://youtu.be/4qO5jqkEiKo)
+  <a href="https://github.com/jeongminchoi1017/LomDDeock">깃허브 주소</a>
+  <a href="https://youtu.be/4qO5jqkEiKo">시연영상</a>
