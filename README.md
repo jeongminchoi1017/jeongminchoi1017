@@ -50,21 +50,26 @@
 - 포트폴리오에 관한 자세한 내용은 노션에 정리되어 있습니다.
   
 - Kmarket
-  JSP를 이용한 쇼핑몰
-  관리자와 판매자 페이지 개발을 맡았습니다.
-  <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/aaabc042-4d85-4fa8-823d-12c241780d95" width="200" height="200"/>
-  (https://github.com/jeongminchoi1017/Kmarket)
+  JSP를 이용한 쇼핑몰<br/>
+  관리자와 판매자 페이지 개발을 맡았습니다.<br/>
+  <div style="text-align:left;">
+      <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/aaabc042-4d85-4fa8-823d-12c241780d95" width="200" height="200"/>
+  </div><br/>
+  [깃허브 주소](https://github.com/jeongminchoi1017/Kmarket)
   
 - LotteON
-  Springboot를 이용한 롯데 이커머스
-  사용자 페이지와 마이페이지 개발을 맡았습니다.
-  <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/68226cf1-bdc1-46e1-bde3-321a6552f364" width="200" height="200"/>
-  (https://github.com/jeongminchoi1017/LotteON4)
+  Springboot를 이용한 롯데 이커머스<br/>
+  사용자 페이지와 마이페이지 개발을 맡았습니다.<br/>
+  <div style="text-align:left;">
+      <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/68226cf1-bdc1-46e1-bde3-321a6552f364" width="200" height="200"/>
+  </div><br/>
+  [깃허브 주소](https://github.com/jeongminchoi1017/LotteON4)
   
 - LomDDeock
-  떡볶이 판매 서비스
-  메뉴와 회사브랜드소개 개발을 맡았습니다.
-  (https://github.com/jeongminchoi1017/LotteON4)
-  <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/7aed57f0-6d2e-45f1-abce-a29a4a80943c" width="200" height="200"/>
-  (https://github.com/jeongminchoi1017/LomDDeock)
+  떡볶이 판매 서비스<br/>
+  메뉴와 회사브랜드소개 개발을 맡았습니다.<br/>
+  <div style="text-align:left;">
+      <img src="https://github.com/jeongminchoi1017/jeongminchoi1017/assets/153606946/7aed57f0-6d2e-45f1-abce-a29a4a80943c" width="200" height="200"/>
+  </div><br/>
+  [깃허브 주소](https://github.com/jeongminchoi1017/LomDDeock)
   [시연영상](https://youtu.be/4qO5jqkEiKo)
