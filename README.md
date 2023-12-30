@@ -48,7 +48,7 @@
 ## 프로젝트
 
 - 포트폴리오에 관한 자세한 내용은 노션에 정리되어 있습니다.
-  
+  <a href="https://sleet-nyala-4cc.notion.site/fecacf30e12846f2a4dee0ac74085ac6?pvs=4">노션</a><br/>
 - Kmarket
   JSP를 이용한 쇼핑몰<br/>
   관리자와 판매자 페이지 개발을 맡았습니다.<br/>
